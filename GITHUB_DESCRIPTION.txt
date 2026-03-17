@@ -1,0 +1,1 @@
+Intelligent student success platform using ML to predict dropout risk and academic performance. Early detection, actionable insights, and data-driven interventions for educational institutions.
