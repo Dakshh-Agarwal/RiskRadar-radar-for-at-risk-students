@@ -1,0 +1,3 @@
+# RiskRadar - Website Description
+
+RiskRadar is an intelligent student success platform that leverages advanced machine learning algorithms to empower educational institutions in identifying at-risk students and ensuring academic success. Our comprehensive solution combines a powerful FastAPI backend with an intuitive React frontend to deliver real-time risk assessment, predictive analytics, and actionable insights that help educators intervene early and support struggling students. By analyzing student data and performance patterns, RiskRadar predicts dropout rates and academic outcomes with high accuracy, enabling institutions to make data-driven decisions and implement targeted support strategies that transform student lives and improve retention rates.
